@@ -1,9 +1,0 @@
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:5521/eureka/
-server:
-  port: 7788
-spring:
-  application:
-    name: service-oa
